@@ -1,1 +1,5 @@
-# 滑动窗口模型
+Here is the code of the paper :
+Xiaohang Lu, Shengqing Wang, Junjie Huang, Wenguang Chen, Zengwang Yan “What Decides the Dropout in MOOCs”, DASFAA, workshop on Data Management and Mining on MOOCs (DMMOOC 2017), Suzhou, Mar., 2017
+
+Here is the abstract:
+Based on the datasets from the MOOCs of Peking University running on the Coursera platform, we extract 19 major features of tune in after analyzing the log structure. To begin with, we focus on the characteristics of start and dropout point of learners through the statis- tics of their start time and dropout time. Then we construct two models. First, several approaches of machine learning are used to build a slid- ing window model for predicting the dropout probabilities in a certain course. Second, SVM is used to build the model for predicting whether a student can get a score at the end of the course. For instructors and designers of MOOCs, dynamically tracking the records of the dropouts could be helpful to improve the course quality in order to reduce the dropout rate.
